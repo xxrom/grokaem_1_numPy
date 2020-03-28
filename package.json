@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon --exec python3 numPy.py ./numPy.py"
+    "dev": "nodemon --exec python3 numPy.py ./numPy.py",
+    "dev2": "nodemon --exec python3 numPy_2.py ./numPy_2.py"
   }
 }
